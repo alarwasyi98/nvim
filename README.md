@@ -6,6 +6,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 <a href="https://dotfyle.com/alarwasyi98/nvim"><img src="https://dotfyle.com/alarwasyi98/nvim/badges/plugins?style=for-the-badge" /></a>
 <a href="https://dotfyle.com/alarwasyi98/nvim"><img src="https://dotfyle.com/alarwasyi98/nvim/badges/plugin-manager?style=for-the-badge" /></a>
 
+![Screenshot_107](https://github.com/user-attachments/assets/016a0903-e8d1-405d-ad13-a3dc09c2c339)
+
 ## Installation
 
 > Install requires Neovim 0.9+. Always review the code before installing a configuration.
